@@ -2,4 +2,4 @@
 
 Hello Everyone!
 
-I'm here to learn how to code with Node and React. This is where ideas and the simplest versions of code will be contained.
+I'm a self taught coder and will be aiming to learn C, Python and JS over the next few months. This is where ideas and the simplest versions of code will be contained.
